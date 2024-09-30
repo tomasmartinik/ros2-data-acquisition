@@ -1,0 +1,4 @@
+[console_scripts]
+camera_node = my_sensor_package.camera_node:main
+radar_node = my_sensor_package.radar_node:main
+
