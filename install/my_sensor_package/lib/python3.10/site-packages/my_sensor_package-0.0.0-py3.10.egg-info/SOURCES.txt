@@ -8,6 +8,8 @@ setup.py
 ../build/my_sensor_package/my_sensor_package.egg-info/top_level.txt
 ../build/my_sensor_package/my_sensor_package.egg-info/zip-safe
 my_sensor_package/__init__.py
+my_sensor_package/camera_node.py
+my_sensor_package/radar_node.py
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
